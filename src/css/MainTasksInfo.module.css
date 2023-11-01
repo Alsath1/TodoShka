@@ -1,0 +1,41 @@
+.tasks_info {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.num_tasks {
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  display: flex;
+  margin-right: 450px;
+  color: #4EA8DE;
+}
+.num_tasks .num {
+  color: #D9D9D9;
+  margin-left: 5px;
+  border-radius: 999px;
+  background: #333;
+  padding: 2px 8px;
+}
+
+.succsess_task {
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  display: flex;
+  color: #8284FA;
+  margin-bottom: 15px;
+}
+.succsess_task .num {
+  color: #D9D9D9;
+  margin-left: 5px;
+  border-radius: 999px;
+  background: #333;
+  padding: 2px 8px;
+}/*# sourceMappingURL=MainTasksInfo.module.css.map */

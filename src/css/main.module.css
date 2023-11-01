@@ -1,0 +1,9 @@
+.main {
+  background-color: #1A1A1A;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: calc(100vh - 200px);
+}/*# sourceMappingURL=main.module.css.map */

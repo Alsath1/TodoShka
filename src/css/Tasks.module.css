@@ -1,0 +1,34 @@
+.main_tasks {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.main_tasks .task {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 704px;
+  height: 100%;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.06);
+  border: 1px solid var(--Gray-400, #333);
+  background: var(--Gray-500, #262626);
+  margin-bottom: 15px;
+}
+.main_tasks .done {
+  margin-right: 12px;
+  width: 20px;
+  height: 20px;
+}
+.main_tasks .trash {
+  display: flex;
+  width: 15px;
+  height: 15px;
+}
+.main_tasks .text {
+  color: #F2F2F2;
+  margin-right: 12px;
+  width: 645px;
+}/*# sourceMappingURL=Tasks.module.css.map */

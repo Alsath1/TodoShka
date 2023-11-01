@@ -1,0 +1,46 @@
+.new_task {
+  position: relative;
+  top: -26px;
+  display: flex;
+  margin-bottom: 55px;
+}
+.new_task input {
+  color: var(--Gray-300, #808080);
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+  height: 22px;
+  width: 606px;
+  border-radius: 8px;
+  padding: 16px;
+  border: 1px solid #0D0D0D;
+  background: #262626;
+  margin-right: 8px;
+}
+.new_task .new_task_btn {
+  color: var(--Gray-100, #F2F2F2);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 140%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.new_task .new_task_btn .text {
+  border-radius: 8px;
+  background: #1E6F9F;
+  height: 20px;
+  width: 58px;
+  padding: 16px;
+}
+.new_task .new_task_btn svg {
+  position: relative;
+  left: 3px;
+  top: 3px;
+  width: 16px;
+  height: 16px;
+}/*# sourceMappingURL=newTask.module.css.map */
