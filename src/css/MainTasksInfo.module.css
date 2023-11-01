@@ -5,6 +5,7 @@
 }
 
 .num_tasks {
+  cursor: default;
   font-family: Inter;
   font-size: 14px;
   font-style: normal;
@@ -23,6 +24,7 @@
 }
 
 .succsess_task {
+  cursor: default;
   font-family: Inter;
   font-size: 14px;
   font-style: normal;

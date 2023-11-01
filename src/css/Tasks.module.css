@@ -21,11 +21,13 @@
   margin-right: 12px;
   width: 20px;
   height: 20px;
+  cursor: pointer;
 }
 .main_tasks .trash {
   display: flex;
   width: 15px;
   height: 15px;
+  cursor: pointer;
 }
 .main_tasks .text {
   color: #F2F2F2;

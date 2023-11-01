@@ -29,8 +29,11 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  cursor: pointer;
 }
 .new_task .new_task_btn .text {
+  transition-property: background-color;
+  transition-duration: 0.8s;
   border-radius: 8px;
   background: #1E6F9F;
   height: 20px;

@@ -6,4 +6,17 @@
   justify-content: flex-start;
   width: 100%;
   height: calc(100vh - 200px);
+}
+
+.notImg {
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+  color: #808080;
+  align-items: center;
+}
+.notImg img {
+  margin-bottom: 16px;
+  width: 70px;
+  height: 70px;
 }/*# sourceMappingURL=main.module.css.map */

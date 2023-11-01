@@ -27,7 +27,12 @@ export const NewTask = () => {
 	};
 	return (
 		<div className={s.new_task}>
-			<input className={s.input} onChange={ChangeHandler} />
+			<input
+				className={s.input}
+				type='text'
+				placeholder='Add a new task'
+				onChange={ChangeHandler}
+			/>
 
 			<div className={s.new_task_btn} onClick={ChangeDispatchHandler}>
 				<div
